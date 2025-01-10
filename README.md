@@ -33,8 +33,22 @@ La ***landing page*** comprend les sections suivantes :
 ***Form Page*** : à compléter ultérieurement.
 
 
+---
+
+### 🚶‍♂️ Installation et test
+
+#### 1. Cloner le projet
+    ```bash
+    git clone https://github.com/evarellapucky/Purrfect.git
+    cd Purrfect
+    ```
+#### 2. Installer les gems + assets precompile
+    ```bash
+    bundle install
+    rails assets:precompile
 
 
+---
 
 ### 🚀 About us
 
