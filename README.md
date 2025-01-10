@@ -39,16 +39,17 @@ La ***landing page*** comprend les sections suivantes :
 
 #### 1. Cloner le projet
 
-    ```bash
+   ```bash
     git clone https://github.com/evarellapucky/Purrfect.git
     cd Purrfect
-    ```
+```
+
 #### 2. Installer les gems + assets precompile
 
-    ```bash
+   ```bash
     bundle install
     rails assets:precompile
-
+```
 
 ---
 
